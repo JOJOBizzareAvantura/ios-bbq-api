@@ -2,11 +2,151 @@
     {
         "id": "1",
         "title": "Top BBQ Tips for Summer",
-        "description": "Learn the best BBQ tips to make your summer grilling a hit!"
+        "description": "Learn the best BBQ tips to make your summer grilling a hit!",
+        "content": "In this article, we discuss top BBQ tips including the best way to prepare your grill, choosing the right meat cuts, and timing techniques for perfection."
     },
     {
         "id": "2",
         "title": "Best BBQ Recipes",
-        "description": "Check out these amazing BBQ recipes for your next cookout."
+        "description": "Check out these amazing BBQ recipes for your next cookout.",
+        "content": "From smoked brisket to grilled veggies, these recipes are sure to impress at your next BBQ."
+    },
+    {
+        "id": "3",
+        "title": "BBQ Trends in 2024",
+        "description": "Discover the latest trends in BBQ for the year 2024.",
+        "content": "This year, BBQ trends include plant-based grilling, new grilling gadgets, and exotic spice blends."
+    },
+    {
+        "id": "4",
+        "title": "How to Smoke Ribs Like a Pro",
+        "description": "A complete guide to smoking ribs to perfection.",
+        "content": "Learn how to select, prepare, season, and smoke ribs for mouth-watering results."
+    },
+    {
+        "id": "5",
+        "title": "Top 10 BBQ Sauces to Try",
+        "description": "Explore the top BBQ sauces to spice up your grilling game.",
+        "content": "From tangy Carolina to sweet Kansas City sauces, find the perfect flavor for your BBQ."
+    },
+    {
+        "id": "6",
+        "title": "BBQ Safety Tips for Families",
+        "description": "Ensure your BBQ is safe for everyone, especially kids.",
+        "content": "Discover essential safety practices to avoid accidents and keep everyone happy."
+    },
+    {
+        "id": "7",
+        "title": "Grilling Vegetables Like a Pro",
+        "description": "Tips and tricks for perfect grilled vegetables every time.",
+        "content": "Learn how to marinate and grill vegetables for optimal flavor and texture."
+    },
+    {
+        "id": "8",
+        "title": "The History of Barbecue",
+        "description": "A deep dive into the origins of barbecue and how it became a global phenomenon.",
+        "content": "Explore the cultural history of BBQ, from its indigenous roots to its modern-day popularity."
+    },
+    {
+        "id": "9",
+        "title": "BBQ vs. Grilling: What's the Difference?",
+        "description": "Understanding the distinction between BBQ and grilling.",
+        "content": "Learn about the differences in techniques, temperatures, and flavors."
+    },
+    {
+        "id": "10",
+        "title": "Best BBQ Rubs for Meat",
+        "description": "Upgrade your BBQ game with these amazing meat rubs.",
+        "content": "Discover the best spice blends and rubs for different types of meat."
+    },
+    {
+        "id": "11",
+        "title": "Secrets to Perfectly Grilled Burgers",
+        "description": "Tips to make the juiciest, most flavorful burgers on the grill.",
+        "content": "Learn the art of crafting and grilling burgers that your guests will love."
+    },
+    {
+        "id": "12",
+        "title": "BBQ Around the World",
+        "description": "Explore BBQ styles and traditions from different countries.",
+        "content": "From Korean BBQ to Brazilian Churrasco, discover how different cultures grill."
+    },
+    {
+        "id": "13",
+        "title": "How to Make Homemade BBQ Sauce",
+        "description": "Simple recipes to create your own BBQ sauce at home.",
+        "content": "Step-by-step guide to making unique sauces with fresh ingredients."
+    },
+    {
+        "id": "14",
+        "title": "5 Must-Have BBQ Tools",
+        "description": "Essential tools every BBQ enthusiast needs.",
+        "content": "From grill brushes to thermometers, ensure you’re equipped for success."
+    },
+    {
+        "id": "15",
+        "title": "Hosting a BBQ Party on a Budget",
+        "description": "Tips for throwing a great BBQ party without breaking the bank.",
+        "content": "Learn how to save on ingredients, decor, and drinks while still impressing your guests."
+    },
+    {
+        "id": "16",
+        "title": "The Science of Smoking Meat",
+        "description": "Understanding the chemistry behind smoking meat.",
+        "content": "Learn how smoking enhances flavor and tenderness through slow cooking."
+    },
+    {
+        "id": "17",
+        "title": "Top BBQ Competitions in the USA",
+        "description": "Discover the best BBQ competitions to attend or compete in.",
+        "content": "Explore iconic events like Memphis in May and the American Royal BBQ."
+    },
+    {
+        "id": "18",
+        "title": "Vegetarian BBQ Ideas",
+        "description": "Delicious BBQ recipes for vegetarian options.",
+        "content": "From grilled portobello mushrooms to BBQ jackfruit, enjoy plant-based grilling."
+    },
+    {
+        "id": "19",
+        "title": "The Ultimate Guide to Smoking Brisket",
+        "description": "Everything you need to know about smoking the perfect brisket.",
+        "content": "A step-by-step process for selecting, seasoning, and smoking brisket."
+    },
+    {
+        "id": "20",
+        "title": "Best BBQ Grills in 2024",
+        "description": "A guide to the best BBQ grills on the market this year.",
+        "content": "Compare gas, charcoal, and pellet grills to find the best fit for your needs."
+    },
+    {
+        "id": "21",
+        "title": "How to Grill Seafood",
+        "description": "Master the art of grilling fish, shrimp, and more.",
+        "content": "Learn techniques for grilling seafood without overcooking."
+    },
+    {
+        "id": "22",
+        "title": "BBQ for Beginners",
+        "description": "A simple guide to getting started with BBQ.",
+        "content": "Learn the basics of BBQ, including equipment, techniques, and recipes."
+    },
+    {
+        "id": "23",
+        "title": "How to Clean Your BBQ Grill",
+        "description": "Keep your grill in top shape with these cleaning tips.",
+        "content": "A comprehensive guide to cleaning and maintaining your BBQ equipment."
+    },
+    {
+        "id": "24",
+        "title": "Top 5 BBQ Side Dishes",
+        "description": "Side dishes to complement your BBQ feast.",
+        "content": "Explore recipes for coleslaw, baked beans, cornbread, and more."
+    },
+    {
+        "id": "25",
+        "title": "BBQ Tips for Cold Weather",
+        "description": "How to enjoy BBQ even during the colder months.",
+        "content": "Learn how to grill effectively in winter with these practical tips."
     }
 ]
