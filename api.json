@@ -102,18 +102,24 @@
         "title": "Hosting a BBQ Party on a Budget",
         "description": "Tips for throwing a great BBQ party without breaking the bank.",
         "content": "Learn how to save on ingredients, decor, and drinks while still impressing your guests.",
+        "image_url": "https://kitchenatics.com/wp-content/uploads/2020/03/Chicken-and-pork-bbq.jpg"
+
     },
     {
         "id": "16",
         "title": "The Science of Smoking Meat",
         "description": "Understanding the chemistry behind smoking meat.",
         "content": "Learn how smoking enhances flavor and tenderness through slow cooking.",
+        "image_url": "https://kitchenatics.com/wp-content/uploads/2020/03/Chicken-and-pork-bbq.jpg"
+
     },
     {
         "id": "17",
         "title": "Top BBQ Competitions in the USA",
         "description": "Discover the best BBQ competitions to attend or compete in.",
         "content": "Explore iconic events like Memphis in May and the American Royal BBQ.",
+        "image_url": "https://kitchenatics.com/wp-content/uploads/2020/03/Chicken-and-pork-bbq.jpg"
+
     },
     {
         "id": "18",
@@ -127,6 +133,8 @@
         "title": "The Ultimate Guide to Smoking Brisket",
         "description": "Everything you need to know about smoking the perfect brisket.",
         "content": "A step-by-step process for selecting, seasoning, and smoking brisket.",
+        "image_url": "https://kitchenatics.com/wp-content/uploads/2020/03/Chicken-and-pork-bbq.jpg"
+
     },
     {
         "id": "20",
@@ -161,6 +169,9 @@
         "title": "Top 5 BBQ Side Dishes",
         "description": "Side dishes to complement your BBQ feast.",
         "content": "Explore recipes for coleslaw, baked beans, cornbread, and more.",
+         "image_url": "https://kitchenatics.com/wp-content/uploads/2020/03/Chicken-and-pork-bbq.jpg"
+
+        
     },
     {
         "id": "25",
